@@ -1,4 +1,4 @@
-let string = "raacecaaar";
+let string = "racecar hi";
 
 let reverse = "";
 
